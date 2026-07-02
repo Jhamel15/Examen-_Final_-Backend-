@@ -17,7 +17,7 @@ public class OpenApiConfig {
                         .version("1.0")
                         .description("""
                                 Examen Final
-                                SIS-404 - Tecnologías Emergentes  2026
+                                SIS-404 - Tecnologías Emergentes-2026
 
                                 Desarrollado por:
                                 JHAMEL JAVIER PINTO UBALDES
